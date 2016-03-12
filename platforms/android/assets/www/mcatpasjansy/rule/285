@@ -1,0 +1,122 @@
+<div data-page="solitaire_rule" class="page toolbar-fixed2">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">Гленко</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels" style="height : 113px;">
+		<div class="toolbar-inner" style="height : 56px;">
+			<a href="#tab-1" class="tab-link active"><i class="icon ks-tabbar-icon-1"></i><span class="tabbar-label">Правила</span></a>
+			<a href="#tab-2" class="tab-link"><i class="icon play-icon"></i><span class="tabbar-label">Играть</span></a>
+			<a href="#tab-3" class="tab-link"><i class="icon ks-tabbar-icon-rait"></i><span class="tabbar-label">Рейтинг</span></a>
+			<a href="#tab-4" class="tab-link"><i class="icon ks-tabbar-icon-rasklad"></i><span class="tabbar-label">Расклады</span></a>
+			<a href="#tab-5" class="tab-link"><i class="icon ks-tabbar-icon-stat"><span class="badge bg-green">27</span></i><span class="tabbar-label">Статистика</span></a>
+		</div>
+		<div class="toolbar-inner" style="top : 57px; height : 56px;"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div id="active_tabs" data-active="1"></div>
+		<div class="tabs">
+			<div id="tab-1" class="tab active"> 
+				<div class="content-block">
+					<div class="content"><b><b>Банк</b></b> (<i>вверху слева</i>) - В начале игры в банке находятся 102 карты рубашкой вверх. Строительство запрещено. Из него автоматически заполняются пустые места отходов.<br/> <br/><b><b>Отходы</b></b> (<i>под банком</i>) - В начале игры в отходах находится одна карта лицевой стороной вверх. Строительство запрещено. Верхняя карта доступна для игры.<br/> <br/><b><b>Основание</b></b> (<i>16 стопок справа вверху</i>) - В начале игры все основания пусты. Две части:<br/> - Основания по Семерке: Постройте в каждой из этих стопок основания восходящую последовательность от Семерки до Дамы, содержащую 6 карт.<br/> - Основания по Шестерке: Постройте в каждой из этих стопок основания нисходящую последовательность от Шестерки до Туза, содержащую 6 карт.<br/> <br/><b><b>Стол</b></b> (<i>8 стопок под основаниями</i>) - В начале игры все стопки стола пусты, за исключением первой, в которой находится Король лицом вверх.<br/> - Пока банк не пуст: Строительство запрещено. Если карта из отходов является Королем, вы должны переместить ее в следующую пустую ячейку стола. Другие карты из отходов переносятся в ячейку стола, содержащую последнего Короля, за исключением случая, когда карту можно перенести на основание (в таком случае у вас есть выбор, перенести карту на основание или в ячейку стола). Семерки и Шестерки можно переносить только на основания над Королем той же масти; то есть, если, например, доступна Шестерка Червей но еще не был разыгран Король Червей, то Шестерку Червей нужно перенести на стол, а не на основание. Перемещения карт между стопками стола запрещены до тех пор, пока банк не опустеет. Открытую карту из любой стопки стола можно перенести на основание.<br/> - Когда банк пуст: Строительство запрещено, за исключением того, что любую карту можно перенести на Короля. Открытую карту из любой стопки стола можно перенести в любую другую стопку.<br/><br/><b>Опции</b><br/>Нет опций.</div>
+				</div>
+			</div>
+
+			<div id="tab-2" class="tab">
+				<div class="content-block">
+					<img style="width : 100%;" src="pics_sol/285.jpg"/>
+					<div class="list-block">
+						<ul>
+							<li><a href='mgame/285' class='item-link'> 
+								<div class="item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Нет опций</div>
+									</div>
+								</div></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div id="tab-3" class="tab"> 
+				<div class="content-block">
+					<div style="float : right;">
+						<span>За неделю</span>
+						<label class="label-switch" id="label-switch_rait">
+							<input type="checkbox">
+							<div class="checkbox"></div>
+						</label>
+						<span>За всю историю</span>
+					</div><br/>
+					
+					<div class="list-block accordion-list">
+						<ul>
+							<li class="accordion-item sol_rait" id="sol_rait_285">
+								<a href="#" class="item-link item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Нет опций</div>
+									</div>
+								</a>
+								<div class="accordion-item-content" id="content_sol_rait_285">
+									<div class="content-block">
+										<div class="infinite-scroll-preloader">
+											<div class="preloader"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="tab-4" class="tab"> 
+				<div class="content-block">
+					<div style="float : right;">
+						<span>За неделю</span>
+						<label class="label-switch" id="label-switch_game">
+							<input type="checkbox">
+							<div class="checkbox"></div>
+						</label>
+						<span>За всю историю</span>
+					</div><br/>
+					
+					<div class="list-block accordion-list">
+						<ul>
+							<li class="accordion-item sol_game" id="sol_game_285">
+								<a href="#" class="item-link item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Нет опций</div>
+									</div>
+								</a>
+								<div class="accordion-item-content" id="content_sol_game_285">
+									<div class="content-block">
+										<div class="infinite-scroll-preloader">
+											<div class="preloader"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="tab-5" class="tab"> 
+				<div class="content-block">
+					<p>This is tab 4 content</p>
+					<p>Fusce luctus turpis nunc, id porta orci blandit eget. Aenean sodales quam nec diam varius, in ornare ipsum condimentum. Aenean eleifend, nulla sit amet volutpat adipiscing, ligula nulla pharetra risus, vitae consequat leo tortor eu nunc. Vivamus at fringilla metus. Duis neque lectus, sagittis in volutpat a, pretium vel turpis. Nam accumsan auctor libero, quis sodales felis faucibus quis. Etiam vestibulum sed nisl vel aliquet. Aliquam pellentesque leo a lacus ultricies scelerisque. Vestibulum vestibulum fermentum tincidunt. Proin eleifend metus non quam pretium, eu vehicula ipsum egestas. Nam eget nibh enim. Etiam sem leo, pellentesque a elit vel, egestas rhoncus enim. Morbi ultricies adipiscing tortor, vitae condimentum lacus hendrerit nec. Phasellus laoreet leo quis purus elementum, ut fringilla justo eleifend. Nunc ultricies a sapien vitae auctor. Aliquam id erat elementum, laoreet est et, dapibus ligula.</p>
+					<p>Fusce luctus turpis nunc, id porta orci blandit eget. Aenean sodales quam nec diam varius, in ornare ipsum condimentum. Aenean eleifend, nulla sit amet volutpat adipiscing, ligula nulla pharetra risus, vitae consequat leo tortor eu nunc. Vivamus at fringilla metus. Duis neque lectus, sagittis in volutpat a, pretium vel turpis. Nam accumsan auctor libero, quis sodales felis faucibus quis. Etiam vestibulum sed nisl vel aliquet. Aliquam pellentesque leo a lacus ultricies scelerisque. Vestibulum vestibulum fermentum tincidunt. Proin eleifend metus non quam pretium, eu vehicula ipsum egestas. Nam eget nibh enim. Etiam sem leo, pellentesque a elit vel, egestas rhoncus enim. Morbi ultricies adipiscing tortor, vitae condimentum lacus hendrerit nec. Phasellus laoreet leo quis purus elementum, ut fringilla justo eleifend. Nunc ultricies a sapien vitae auctor. Aliquam id erat elementum, laoreet est et, dapibus ligula.</p>
+					<p>Fusce luctus turpis nunc, id porta orci blandit eget. Aenean sodales quam nec diam varius, in ornare ipsum condimentum. Aenean eleifend, nulla sit amet volutpat adipiscing, ligula nulla pharetra risus, vitae consequat leo tortor eu nunc. Vivamus at fringilla metus. Duis neque lectus, sagittis in volutpat a, pretium vel turpis. Nam accumsan auctor libero, quis sodales felis faucibus quis. Etiam vestibulum sed nisl vel aliquet. Aliquam pellentesque leo a lacus ultricies scelerisque. Vestibulum vestibulum fermentum tincidunt. Proin eleifend metus non quam pretium, eu vehicula ipsum egestas. Nam eget nibh enim. Etiam sem leo, pellentesque a elit vel, egestas rhoncus enim. Morbi ultricies adipiscing tortor, vitae condimentum lacus hendrerit nec. Phasellus laoreet leo quis purus elementum, ut fringilla justo eleifend. Nunc ultricies a sapien vitae auctor. Aliquam id erat elementum, laoreet est et, dapibus ligula.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

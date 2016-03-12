@@ -1,0 +1,73 @@
+<div data-page="solitaire_list_bakers_dozen" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">bakers_dozen</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/356?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Бизли</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/155?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Испанский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/351?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Осажденный замок</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/147?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Чертова дюжина</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/150?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Замок в Испании</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/149?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Барселона</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/352?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Наполеон</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/338?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Настойчивость</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/153?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Королевская масть</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>

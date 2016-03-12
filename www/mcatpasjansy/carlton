@@ -1,0 +1,61 @@
+<div data-page="solitaire_list_carlton" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">carlton</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/340?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Карлтон</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/102?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Лобачевский</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/101?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Бразильский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/99?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Агнесса Сорель</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/105?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Шик</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/97?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Абиджан</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/104?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Королева Елизавета</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>

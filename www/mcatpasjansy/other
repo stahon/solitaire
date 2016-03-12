@@ -1,0 +1,121 @@
+<div data-page="solitaire_list_other" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">other</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/314?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Алжирский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/315?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Альгамбра</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/349?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Полтава</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/304?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Цецилия</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/344?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Питгейл</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/300?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Блондинки и брюнетки</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/292?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Адели2</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/311?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Волчья стая</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/308?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Глостершир</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/294?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Мавританская крепость</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/310?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Донбасс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/346?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Альгамбра2</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/301?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Британская конституция</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/306?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Немецкий пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/291?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Адели</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/303?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Капрал</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/298?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Бартольди</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>

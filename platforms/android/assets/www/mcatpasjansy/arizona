@@ -1,0 +1,79 @@
+<div data-page="solitaire_list_arizona" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">arizona</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/198?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Невада</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/192?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Калифорния</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/204?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Каменная стена</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/201?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Королева Альберта</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/348?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Запасной путь</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/263?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Аризона</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/194?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Двойная каменная стена</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/199?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Северо-западная Территория</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/195?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Монреаль</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/190?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Отей</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>

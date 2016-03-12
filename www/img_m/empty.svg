@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="185" viewBox="0 0 135 185">
+		<g>
+			<rect width="135" height="185" rx="10" ry="10" style="fill:none; stroke-width:5; stroke:#ddd;" />
+			<text x="20" y="60" font-size="60" font-weight="bold" stroke="#ddd" stroke-width="3" fill="none">A</text>
+		</g>
+</svg>

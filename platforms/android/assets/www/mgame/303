@@ -1,0 +1,51 @@
+<div class="pages navbar-fixed game-navbar-fixed">
+<div data-page="game" class="page pagegame game-toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='#' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">Играть Капрал</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+	<div class="second-line">
+		<div class="second-inner">
+			<div class="right">
+				<a id="penalty" href="#">0</a>
+				<a id="timer" href="#">00 : 00</a>
+			</div>
+			<div class="center">Пасьянс Капрал</div>
+		</div>
+	</div>
+
+	<div class="game-toolbar">
+		<div id="menu_1" class="game-toolbar-inner" style="display : none;">
+			<a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a>
+			<a href="#" class="game-modal"><i class="icon game-icon"></i>GAME</a>
+			<a href="#" class="step-modal"><i class="icon step-icon"></i>STEP</a>
+			<a href="#" onclick = "Back(1); return false;"><i class="icon undo-icon"></i>UNDO</a>
+			<a href="#" onclick = "Hint(); return false;"><i class="icon hint-icon"></i>HINT</a>
+			<a href="#" class="more-modal"><i class="icon more-icon"></i>MORE</a>
+		</div>
+		<div id="menu_2" class="game-toolbar-inner">
+			<a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a>
+			<a href="#" class="random-modal"><i class="icon random-icon"></i>RANDOM DEAL</a>
+			<a href="#" class="winning-modal"><i class="icon winning-icon"></i>WINNING DEAL</a>
+			<a href="#" class="quest-modal"><i class="icon quest-icon"></i>QUEST DEAL</a>
+			<a href="#" class="train-modal"><i class="icon train-icon"></i>TRAIN DEAL</a>
+			<a href="#" class="exit-modal"><i class="icon exit-icon"></i>EXIT MENU</a>
+		</div>
+	</div>
+	<audio id="step"><source src="sound/card1.mp3"></audio>
+	<audio id="hint"><source src="sound/Hint.mp3"></audio>
+	<div class="page-content">
+		<div class="wrap" onmousedown = "DragEvent.MainMouseDown(event);" onmousemove = "DragEvent.CardDrag(event);" onmouseup = "DragEvent.MouseUp(event);"  ontouchstart = "DragEvent.MainMouseDown(event);" ontouchmove = "DragEvent.CardDrag(event);" ontouchend = "DragEvent.MouseUp(event);">
+			<div id="sol_id" data-id="303"></div>
+			<div id="cardplace_rule">14.2^14.2^14.2^14.2^14.2^14.2^14.2^.6$25^50^25$0^0^1^0^2^0^3^0^4^0^5^0^6^0^8^0^9^0^10^0^11^0^12^0^13^0^18^2^19^3^16^8</div>
+			<div id="patience_rule">15^900^0^2^80<br/>
+0^2^2^14^13^4^0^2^2^13^11^4^0^2^2^12^9^4^0^2^2^11^7^4^0^2^2^10^5^4^0^2^2^9^3^4^0^2^2^8^14^4^0^2^2^7^12^4^0^2^2^6^10^4^0^2^2^5^8^4^0^2^2^4^6^4^0^2^2^3^4^4^0^2^2^2^2^4^3^1^0^0^200^0^0^0^0^0^100^2^<br/>
+2^13^4^0^21203^1^21101^2^21004^3^20902^4^20803^5^20701^6^20604^7^20502^8^20403^9^20301^10^20204^11^20102^12^20003^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^13^0^14^1<br/>
+47^-7^-8^-7^-8^-7^-8^-7^-8^-7^-8^-7^-8^46&50^200^470</div>
+	</div>
+
+</div>
+</div>

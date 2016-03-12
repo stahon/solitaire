@@ -1,0 +1,151 @@
+<div data-page="solitaire_list_spider" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">spider</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/32?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Паук</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/226?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Скорпион</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/325?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Паучиха</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/225?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Скарабей</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/237?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Оса</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/206?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Эпплгейт</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/220?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Молоко и Сыворотка</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/215?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Черная Вдова</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/332?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Вперед</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/228?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Морской паук</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/249?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Маленький блуждающий огонек</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/235?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Крошка паучиха</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/218?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Касабланка</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/209?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Таракан</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/244?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Белый паук</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/242?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Крошка оса</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/212?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Черный паук</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/247?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Блуждающий огонек</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/323?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Оса18</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/230?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Симбад</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/333?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Просто вперед</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/328?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Простой черный паук</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>

@@ -1,0 +1,67 @@
+<div data-page="solitaire_list_pairs" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">pairs</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/172?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Монте Карло</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/1?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Десятки</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/167?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Крест</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/169?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Двойные Пары</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/165?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Родство</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/166?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Все четыре масти</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/170?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Дуплеты</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/168?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Двойные Четырнадцать</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>

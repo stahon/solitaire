@@ -1,0 +1,177 @@
+<div data-page="solitaire_list" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">Выбор пасьянса</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+									<li><a href='mcatpasjansy/popular' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Самые популярные</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/favorite' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Мои любимые</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/last' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Недавно добавленные</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/notpopular' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Непопулярные</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/difficult' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Самые сложные</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/notdifficult' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Самые простые</div>
+											</div>
+										</div></a></li>
+								</ul>
+								<div class="content-block-title">По категориям:</div>
+								<ul>
+									<li><a href='mcatpasjansy/pairs' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Пары</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/klondike' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Косынка</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/canfield' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Кэнфилд</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/yukon' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Юкон</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/spider' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Паук</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/carlton' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Карлтон</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/forty_thieves' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Сорок разбойников</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/bakers_dozen' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Чертова дюжина</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/fan' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Веер</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/arizona' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Аризона</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/sir_tommy' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Сэр Томми</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/freecell' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Солитер</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/four_seasons' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Четыре сезона</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/golf' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Гольф</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/faery_queen' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Королева Фей</div>
+											</div>
+										</div></a></li>
+									<li><a href='mcatpasjansy/other' class='item-link'> 
+										<div class="item-content">
+											<div class="item-media"><i class="icon icon-play"></i></div>
+											<div class="item-inner"> 
+												<div class="item-title">Другие</div>
+											</div>
+										</div></a></li>
+			</ul>
+		</div>
+	</div>
+</div>

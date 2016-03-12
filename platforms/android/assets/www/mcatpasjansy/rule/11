@@ -1,0 +1,160 @@
+<div data-page="solitaire_rule" class="page toolbar-fixed2">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">Хамелеон</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels" style="height : 113px;">
+		<div class="toolbar-inner" style="height : 56px;">
+			<a href="#tab-1" class="tab-link active"><i class="icon ks-tabbar-icon-1"></i><span class="tabbar-label">Правила</span></a>
+			<a href="#tab-2" class="tab-link"><i class="icon play-icon"></i><span class="tabbar-label">Играть</span></a>
+			<a href="#tab-3" class="tab-link"><i class="icon ks-tabbar-icon-rait"></i><span class="tabbar-label">Рейтинг</span></a>
+			<a href="#tab-4" class="tab-link"><i class="icon ks-tabbar-icon-rasklad"></i><span class="tabbar-label">Расклады</span></a>
+			<a href="#tab-5" class="tab-link"><i class="icon ks-tabbar-icon-stat"><span class="badge bg-green">27</span></i><span class="tabbar-label">Статистика</span></a>
+		</div>
+		<div class="toolbar-inner" style="top : 57px; height : 56px;"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div id="active_tabs" data-active="1"></div>
+		<div class="tabs">
+			<div id="tab-1" class="tab active"> 
+				<div class="content-block">
+					<div class="content"><b><b>Банк</b></b> (<i>вверху слева</i>) - В начале игры в банке находится 35 карт рубашкой вверх. Строительство запрещено. При щелчке мышью на банке, из него сдается в отходы 1 карта. Пересдач нет.<br/> <br/><b><b>Отходы</b></b> (<i>справа от банка</i>) - В начале игры в отходах находится одна карта лицевой стороной вверх. Строительство запрещено. Верхняя карта доступна для игры.<br/> <br/><b><b>Основание</b></b> (<i>4 стопки вверху справа</i>) - В начале игры в первой ячейке основания находится одна случайная карта лицевой стороной вверх. Постройте в каждой стопке основания восходящую последовательность по масти, содержащую 13 карт, начиная с номинала первой карты и кладя Короля на Туза, если необходимо. Верхняя карта (за исключением базовой) доступна для игры.<br/> <br/><b><b>Стол</b></b> (<i>3 стопки под основаниями</i>) - В начале игры в каждой ячейке стола находится 1 карта лицевой стороной вверх. В стопках стола можно строить нисходящую последовательность, кладя Туза на Короля, если необходимо. Открытая карта каждой стопки стола доступна для игры. Также, в другую стопку стола можно перенести ряд открытых карт, составляющих нисходящую последовательность. Пустые места автоматически заполняются из резерва, а когда он опустеет, в них можно перемещать любую карту или любую допустимую последовательность.<br/> <br/><b><b>Резерв</b></b> (<i>под основанием</i>) - В начале игры в резерве находится 11 карт рубашкой вверх и 1 карта лицом вверх. Строительство запрещено. Верхняя карта доступна для игры.<br/><br/><b>Опции</b><br/>Из банка сдается по одной карте в отходы / пересдач нет (опция по умолчанию).<br/>Из банка сдается по 3 карты в отходы / 2 пересдачи (одинаковая сложность).</div>
+				</div>
+			</div>
+
+			<div id="tab-2" class="tab">
+				<div class="content-block">
+					<img style="width : 100%;" src="pics_sol/11.jpg"/>
+					<div class="list-block">
+						<ul>
+							<li><a href='mgame/10' class='item-link'> 
+								<div class="item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Из банка сдается по одной карте в отходы / пересдач нет</div>
+									</div>
+								</div></a>
+							</li>
+							<li><a href='mgame/11' class='item-link'> 
+								<div class="item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Из банка сдается по три карты в отходы / пересдач две</div>
+									</div>
+								</div></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div id="tab-3" class="tab"> 
+				<div class="content-block">
+					<div style="float : right;">
+						<span>За неделю</span>
+						<label class="label-switch" id="label-switch_rait">
+							<input type="checkbox">
+							<div class="checkbox"></div>
+						</label>
+						<span>За всю историю</span>
+					</div><br/>
+					
+					<div class="list-block accordion-list">
+						<ul>
+							<li class="accordion-item sol_rait" id="sol_rait_10">
+								<a href="#" class="item-link item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Из банка сдается по одной карте в отходы / пересдач нет</div>
+									</div>
+								</a>
+								<div class="accordion-item-content" id="content_sol_rait_10">
+									<div class="content-block">
+										<div class="infinite-scroll-preloader">
+											<div class="preloader"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="accordion-item sol_rait" id="sol_rait_11">
+								<a href="#" class="item-link item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Из банка сдается по три карты в отходы / пересдач две</div>
+									</div>
+								</a>
+								<div class="accordion-item-content" id="content_sol_rait_11">
+									<div class="content-block">
+										<div class="infinite-scroll-preloader">
+											<div class="preloader"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="tab-4" class="tab"> 
+				<div class="content-block">
+					<div style="float : right;">
+						<span>За неделю</span>
+						<label class="label-switch" id="label-switch_game">
+							<input type="checkbox">
+							<div class="checkbox"></div>
+						</label>
+						<span>За всю историю</span>
+					</div><br/>
+					
+					<div class="list-block accordion-list">
+						<ul>
+							<li class="accordion-item sol_game" id="sol_game_10">
+								<a href="#" class="item-link item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Из банка сдается по одной карте в отходы / пересдач нет</div>
+									</div>
+								</a>
+								<div class="accordion-item-content" id="content_sol_game_10">
+									<div class="content-block">
+										<div class="infinite-scroll-preloader">
+											<div class="preloader"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="accordion-item sol_game" id="sol_game_11">
+								<a href="#" class="item-link item-content">
+									<div class="item-media"><i class="icon icon-play"></i></div>
+									<div class="item-inner"> 
+										<div class="item-title">Из банка сдается по три карты в отходы / пересдач две</div>
+									</div>
+								</a>
+								<div class="accordion-item-content" id="content_sol_game_11">
+									<div class="content-block">
+										<div class="infinite-scroll-preloader">
+											<div class="preloader"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="tab-5" class="tab"> 
+				<div class="content-block">
+					<p>This is tab 4 content</p>
+					<p>Fusce luctus turpis nunc, id porta orci blandit eget. Aenean sodales quam nec diam varius, in ornare ipsum condimentum. Aenean eleifend, nulla sit amet volutpat adipiscing, ligula nulla pharetra risus, vitae consequat leo tortor eu nunc. Vivamus at fringilla metus. Duis neque lectus, sagittis in volutpat a, pretium vel turpis. Nam accumsan auctor libero, quis sodales felis faucibus quis. Etiam vestibulum sed nisl vel aliquet. Aliquam pellentesque leo a lacus ultricies scelerisque. Vestibulum vestibulum fermentum tincidunt. Proin eleifend metus non quam pretium, eu vehicula ipsum egestas. Nam eget nibh enim. Etiam sem leo, pellentesque a elit vel, egestas rhoncus enim. Morbi ultricies adipiscing tortor, vitae condimentum lacus hendrerit nec. Phasellus laoreet leo quis purus elementum, ut fringilla justo eleifend. Nunc ultricies a sapien vitae auctor. Aliquam id erat elementum, laoreet est et, dapibus ligula.</p>
+					<p>Fusce luctus turpis nunc, id porta orci blandit eget. Aenean sodales quam nec diam varius, in ornare ipsum condimentum. Aenean eleifend, nulla sit amet volutpat adipiscing, ligula nulla pharetra risus, vitae consequat leo tortor eu nunc. Vivamus at fringilla metus. Duis neque lectus, sagittis in volutpat a, pretium vel turpis. Nam accumsan auctor libero, quis sodales felis faucibus quis. Etiam vestibulum sed nisl vel aliquet. Aliquam pellentesque leo a lacus ultricies scelerisque. Vestibulum vestibulum fermentum tincidunt. Proin eleifend metus non quam pretium, eu vehicula ipsum egestas. Nam eget nibh enim. Etiam sem leo, pellentesque a elit vel, egestas rhoncus enim. Morbi ultricies adipiscing tortor, vitae condimentum lacus hendrerit nec. Phasellus laoreet leo quis purus elementum, ut fringilla justo eleifend. Nunc ultricies a sapien vitae auctor. Aliquam id erat elementum, laoreet est et, dapibus ligula.</p>
+					<p>Fusce luctus turpis nunc, id porta orci blandit eget. Aenean sodales quam nec diam varius, in ornare ipsum condimentum. Aenean eleifend, nulla sit amet volutpat adipiscing, ligula nulla pharetra risus, vitae consequat leo tortor eu nunc. Vivamus at fringilla metus. Duis neque lectus, sagittis in volutpat a, pretium vel turpis. Nam accumsan auctor libero, quis sodales felis faucibus quis. Etiam vestibulum sed nisl vel aliquet. Aliquam pellentesque leo a lacus ultricies scelerisque. Vestibulum vestibulum fermentum tincidunt. Proin eleifend metus non quam pretium, eu vehicula ipsum egestas. Nam eget nibh enim. Etiam sem leo, pellentesque a elit vel, egestas rhoncus enim. Morbi ultricies adipiscing tortor, vitae condimentum lacus hendrerit nec. Phasellus laoreet leo quis purus elementum, ut fringilla justo eleifend. Nunc ultricies a sapien vitae auctor. Aliquam id erat elementum, laoreet est et, dapibus ligula.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,73 @@
+<div data-page="solitaire_list_yukon" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">yukon</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/23?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Киев</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/24?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Русский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/31?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Юкон</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/15?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Аляска</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/20?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Брисбен</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/28?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Украинский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/19?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Арктика</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/27?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Сибирь</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/17?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Антарктика</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>

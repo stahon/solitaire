@@ -1,0 +1,169 @@
+<div data-page="solitaire_list_notdifficult" class="page toolbar-fixed">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="left"><a href='/' class='back link icon-only'><i class="icon icon-back"></i></a></div>
+			<div class="center">notdifficult</div>
+			<div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars"></i></a></div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner"><a href="#" data-popup=".popup" class="open-popup link">О нас</a><a href="#" data-popover=".popover-menu" class="open-popover link">Больше</a></div>
+	</div>
+
+	<div class="page-content">
+		<div class="list-block">
+			<ul>
+				<li><a href="mcatpasjansy/rule/11?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Хамелеон</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/51?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Деловые Тройки</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/77?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Простое чередование</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/101?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Бразильский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/116?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Двойки</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/131?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Малые Сорок</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/204?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Каменная стена</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/225?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Скарабей</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/242?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Крошка оса</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/267?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Царица</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/281?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Восемь великих монархов</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/315?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Альгамбра</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/308?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Глостершир</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/346?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Альгамбра2</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/40?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Австралийский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/95?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Белое каление</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/155?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Испанский пасьянс</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/182?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Радуга</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/198?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Невада</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/215?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Черная Вдова</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/235?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Крошка паучиха</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/291?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Адели</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/333?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Просто вперед</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/119?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Император</div>
+					</div></a>
+				</li>
+				<li><a href="mcatpasjansy/rule/135?active=2" class="item-link item-content">
+					<div class="item-media"><i class="icon icon-play"></i></div>
+					<div class="item-inner"> 
+						<div class="item-title">Сорок Наполеона</div>
+					</div></a>
+				</li>
+			</ul>
+	</div>
+</div>
